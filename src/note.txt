@@ -1,0 +1,17 @@
+
+
+
+Start in production mode
+Your data is private by default. Client read/write access will only be granted as specified by your security rules.
+
+user signup/login:
+shahariar@shakil.com
+12345678
+
+
+admin:
+admin@cloud.com
+12345678
+
+
+add some more footer contents. only design by bootstrap 5.3.3 so that it's look good.
